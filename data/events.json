@@ -23,8 +23,8 @@
     "CommunityName": "GDG Hyderabad",
     "DevFestName": "DevFest Hyderabad",
     "Days": "1",
-    "StartingDate": "2022-11-26",
-    "EndingDate": "2022-11-26",
+    "StartingDate": "2023-11-26",
+    "EndingDate": "2023-11-26",
     "Venue": "Le Méridien, Gachibowli, Hyderabad",
     "Description": "GDG DevFest Hyderabad brings together community experts on Google and Open Source technologies. Hyderabad DevFest can be considered a “Technical Diwali” that celebrates the achievements of the computing world and the constant urge to connect, code, and innovate.",
     "EventLink": "https://devfest.gdghyderabad.in",
@@ -32,9 +32,9 @@
     "Visible": "true",
     "State": "Telangana",
     "CFP": {
-      "Status": "0",
-      "Link": "",
-      "LastDate": ""
+      "Status": "1",
+      "Link": "https://techferment.com/",
+      "LastDate": "2023-11-26"
     }
   },
   {
