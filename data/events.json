@@ -1,5 +1,24 @@
 [
   {
+    "City": "New Delhi",
+    "CommunityName": "GDG New Delhi",
+    "DevFestName": "DevFest New Delhi",
+    "Days": "1",
+    "StartingDate": "2023-10-07",
+    "EndingDate": "2023-10-07",
+    "Venue": "New Delhi",
+    "Description": "GDG New Delhi is proud to present DevFest 2023, the biggest event of the year for developers, designers, and techies. This one-day festival will feature multiple tracks of tech sessions, communities, and projects, as well as food and fun activities. Whether you're a seasoned pro or just getting started in the tech world, DevFest has something for everyone. So mark your calendars, wear a big smile and we'll see you there!",
+    "EventLink": "https://www.commudle.com/communities/gdg-new-delhi/events/devfest-2023",
+    "CommunityPage": "https://www.commudle.com/communities/gdg-new-delhi/",
+    "Visible": "true",
+    "State": "New Delhi",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://www.commudle.com/fill-form/1892",
+      "LastDate": "2023-09-20"
+    }
+  },
+  {
     "City": "Jalandhar",
     "CommunityName": "GDG Jalandhar",
     "DevFestName": "DevFest Jalandhar",
