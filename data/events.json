@@ -55,5 +55,24 @@
       "Link": "https://techferment.com/",
       "LastDate": "2023-11-26"
     }
+  },
+  {
+    "City": "Mangalore",
+    "CommunityName": "GDG Cloud Mangalore",
+    "DevFestName": "DevFest Mangalore",
+    "Days": "1",
+    "StartingDate": "2023-11-18",
+    "EndingDate": "2023-11-18",
+    "Venue": "Announcing Soon!",
+    "Description": "DevFest Mangalore 2023 will be the largest technical event and the first ever GDG festival in Mangalore as we set to host 1000+ developers from various geographies including Mangalore, Udupi and Kasargod.",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-devfest-mangalore-2023/",
+    "CommunityPage": "https://gdg.community.dev/gdg-cloud-mangalore/",
+    "Visible": "true",
+    "State": "Karnataka",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://forms.gle/yboekrP41xVdGusG9",
+      "LastDate": "2023-11-01"
+    }
   }
 ]
