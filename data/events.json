@@ -19,44 +19,6 @@
     }
   },
   {
-    "City": "Jalandhar",
-    "CommunityName": "GDG Jalandhar",
-    "DevFestName": "DevFest Jalandhar",
-    "Days": "1",
-    "StartingDate": "2023-10-16",
-    "EndingDate": "2023-10-16",
-    "Venue": "The Cabbana Resort & Spa",
-    "Description": "This DevFest will be an achievement for the GDG Jalandhar Team as we are all set to host the 2000+ developers by connecting the dots which we have started since a month. We started with the theme of Building Developers at DevCommunity Roadshow, then Guiding Developers at DevCreate Hackathon and now, ready with the theme - Supporting Developers.",
-    "EventLink": "https://devfest.gdgjalandhar.com",
-    "CommunityPage": "https://gdg.community.dev/gdg-jalandhar",
-    "Visible": "true",
-    "State": "Punjab",
-    "CFP": {
-      "Status": "0",
-      "Link": "",
-      "LastDate": ""
-    }
-  },
-  {
-    "City": "Hyderabad",
-    "CommunityName": "GDG Hyderabad",
-    "DevFestName": "DevFest Hyderabad",
-    "Days": "1",
-    "StartingDate": "2023-11-26",
-    "EndingDate": "2023-11-26",
-    "Venue": "Le Méridien, Gachibowli, Hyderabad",
-    "Description": "GDG DevFest Hyderabad brings together community experts on Google and Open Source technologies. Hyderabad DevFest can be considered a “Technical Diwali” that celebrates the achievements of the computing world and the constant urge to connect, code, and innovate.",
-    "EventLink": "https://devfest.gdghyderabad.in",
-    "CommunityPage": "https://gdg.community.dev/gdg-hyderabad",
-    "Visible": "true",
-    "State": "Telangana",
-    "CFP": {
-      "Status": "1",
-      "Link": "https://techferment.com/",
-      "LastDate": "2023-11-26"
-    }
-  },
-  {
     "City": "Mangalore",
     "CommunityName": "GDG Cloud Mangalore",
     "DevFestName": "DevFest Mangalore",
