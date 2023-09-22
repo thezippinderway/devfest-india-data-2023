@@ -55,5 +55,24 @@
       "Link": "https://sessionize.com/gdg-ahmedabad-devfest-2023/",
       "LastDate": "2023-09-23"
     }
+  },
+  {
+    "City": "Bhilai",
+    "CommunityName": "GDG Bhilai",
+    "DevFestName": "DevFest Bhilai",
+    "Days": "1",
+    "StartingDate": "2023-11-26",
+    "EndingDate": "2023-11-26",
+    "Venue": "Bhilai",
+    "Description": "GDG Bhilai brings together the world-class experts in Android, Web and Cloud technologies to Bhilai for sessions, workshops, and showcases.. This one-day festival will feature multiple tracks of tech sessions, communities, and projects, as well as food and fun activities. Whether you're a seasoned pro or just getting started in the tech world, DevFest has something for everyone. So mark your calendars, wear a big smile and we'll see you there!",
+    "EventLink": "https://devfestbhilai2023.tech/",
+    "CommunityPage": "https://gdg.community.dev/gdg-bhilai/",
+    "Visible": "true",
+    "State": "Chhattisgarh",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://sessionize.com/cfp-gdg-devfest-bhilai/",
+      "LastDate": "2023-10-31"
+    }
   }
 ]
