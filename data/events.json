@@ -76,6 +76,26 @@
     }
   },
   {
+
+    "City": "Siliguri",
+    "CommunityName": "GDG Siliguri",
+    "DevFestName": "DevFest Siliguri",
+    "Days": "1",
+    "StartingDate": "2023-11-04",
+    "EndingDate": "2023-11-04",
+    "Venue": "ROYAL SAROVAR PORTICO, Siliguri",
+    "Description": "Join us for an immersive and inspiring tech experience at DevFest Siliguri 2023! This year, we're bringing together tech enthusiasts, developers, and innovators from all around the region to explore the latest in technology, share knowledge, and network with like-minded individuals.",
+    "EventLink": "https://gdgsiliguri.com/",
+    "CommunityPage": "https://gdg.community.dev/gdg-siliguri/",
+    "Visible": "true",
+    "State": "West Bengal",
+    "CFP": {
+      "Status": "0",
+      "Link": "https://www.commudle.com/fill-form/1967",
+      "LastDate": "2023-10-13"
+    }
+  },
+  {
     "City": "Jalandhar",
     "CommunityName": "GDG Jalandhar",
     "DevFestName": "DevFest Jalandhar",
