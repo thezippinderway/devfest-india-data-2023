@@ -74,5 +74,24 @@
       "Link": "https://sessionize.com/cfp-gdg-devfest-bhilai/",
       "LastDate": "2023-10-31"
     }
+  },
+  {
+    "City": "Jalandhar",
+    "CommunityName": "GDG Jalandhar",
+    "DevFestName": "DevFest Jalandhar",
+    "Days": "1",
+    "StartingDate": "2023-11-04",
+    "EndingDate": "2023-11-04",
+    "Venue": "IK Gujral Punjab Technical University (Main Campus)",
+    "Description": "GDG Jalandhar brings brings Punjab's biggest Dev-Conference for the developer community of Punjab. Grab this oppurtunity to learn from industry leading experts and network with them.",
+    "EventLink": "https://devfest.gdgjalandhar.com/",
+    "CommunityPage": "https://gdg.community.dev/gdg-jalandhar/",
+    "Visible": "true",
+    "State": "Punjab",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://forms.gle/pHTzHhHLcdioHj48A",
+      "LastDate": "2023-10-21"
+    }
   }
 ]
