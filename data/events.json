@@ -114,6 +114,24 @@
     }
   },
   {
+    "City": "Visakhapatnam",
+    "CommunityName": "GDG Vizag",
+    "DevFestName": "DevFest Vizag",
+    "Days": "1",
+    "StartingDate": "2023-12-02",
+    "EndingDate": "2023-12-02",
+    "Venue": "TBD (Visakhapatnam, India)",
+    "Description": "",
+    "EventLink": "https://devfest.Jammu.com",
+    "CommunityPage": "https://gdg.community.dev/gdg-vizag/",
+    "Visible": "true",
+    "State": "Andhra Pradesh",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://sessionize.com/devfest-vizag-2023",
+    }
+  },
+  {
 
     "City": "Raipur",
     "CommunityName": "GDG Raipur",
