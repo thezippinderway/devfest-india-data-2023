@@ -102,7 +102,7 @@
     "StartingDate": "2023-11-04",
     "EndingDate": "2023-11-04",
     "Venue": "IK Gujral Punjab Technical University (Main Campus)",
-    "Description": "GDG Jalandhar brings brings Punjab's biggest Dev-Conference for the developer community of Punjab. Grab this oppurtunity to learn from industry leading experts and network with them.",
+    "Description": "GDG Jalandhar brings Punjab's biggest Dev-Conference for the developer community of Punjab. Grab this oppurtunity to learn from industry leading experts and network with them.",
     "EventLink": "https://devfest.gdgjalandhar.com/",
     "CommunityPage": "https://gdg.community.dev/gdg-jalandhar/",
     "Visible": "true",
@@ -129,6 +129,44 @@
     "CFP": {
       "Status": "1",
       "Link": "https://sessionize.com/devfest-vizag-2023",
+    }
+  },
+  {
+
+    "City": "Raipur",
+    "CommunityName": "GDG Raipur",
+    "DevFestName": "DevFest Raipur",
+    "Days": "1",
+    "StartingDate": "2023-12-16",
+    "EndingDate": "2023-12-16",
+    "Venue": "Raipur",
+    "Description": "GDG Raipur empower local tech professionals and aspiring tech enthusiasts by providing access to various events, tech sessions, seminars, and other activities. We aim to provide the same opportunities and exposure that tech professionals in metro cities enjoy",
+    "EventLink": "https://devfestraipur.in/",
+    "CommunityPage": "https://gdg.community.dev/gdg-raipur/",
+    "Visible": "true",
+    "State": "Chhattisgarh",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://cfp.gdgraipur.in/devfest-raipur-2023/",
+      "LastDate": "2023-11-15"
+    }
+  },
+  {
+    "City": "Bhopal",
+    "CommunityName": "GDG Bhopal",
+    "DevFestName": "DevFest Bhopal",
+    "Days": "1",
+    "StartingDate": "2023-12-10",
+    "EndingDate": "2023-12-10",
+    "Venue": "Bhopal",
+    "Description": "GDG Bhopal brings the most-awaited tech event for the developer community of Madhya Pradesh. Join us for a day of learning and networking with industry leaders. Explore cutting-edge technologies, attend interactive sessions, and build valuable connections.",
+    "EventLink": "https://devfest.gdgbhopal.com/",
+    "CommunityPage": "https://gdg.community.dev/gdg-bhopal/",
+    "Visible": true,
+    "State": "Madhya Pradesh",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://forms.gle/XctaTnmtwcSbi8KN9",
       "LastDate": "2023-11-20"
     }
   }
