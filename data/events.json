@@ -113,5 +113,24 @@
       "Link": "https://forms.gle/pHTzHhHLcdioHj48A",
       "LastDate": "2023-10-21"
     }
+  },
+  {
+    "City": "Raipur",
+    "CommunityName": "GDG Raipur",
+    "DevFestName": "DevFest Raipur",
+    "Days": "1",
+    "StartingDate": "2023-12-16",
+    "EndingDate": "2023-12-16",
+    "Venue": "Raipur",
+    "Description": "GDG Raipur empower local tech professionals and aspiring tech enthusiasts by providing access to various events, tech sessions, seminars, and other activities. We aim to provide the same opportunities and exposure that tech professionals in metro cities enjoy",
+    "EventLink": "https://devfestraipur.in/",
+    "CommunityPage": "https://gdg.community.dev/gdg-raipur/",
+    "Visible": "true",
+    "State": "Chhattisgarh",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://cfp.gdgraipur.in/devfest-raipur-2023/",
+      "LastDate": "2023-11-15"
+    }
   }
 ]
