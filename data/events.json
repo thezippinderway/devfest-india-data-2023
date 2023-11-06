@@ -190,6 +190,25 @@
     }
   },
   {
+
+    "City": "Lucknow",
+    "CommunityName": "GDG Lucknow",
+    "DevFestName": "Devfest Lucknow 2023",
+    "Days": "1",
+    "StartingDate": "2023-11-19",
+    "EndingDate": "2023-11-19",
+    "Venue": "BBD Auditorium, Lucknow, Uttar Pradesh",
+    "Description": "The much-anticipated tech conference in Lucknow has arrived! Come join us to learn, connect, and celebrate with the Google Developer Community. Get set to explore Android, Web, Machine Learning, Cloud, and a lot more of exciting topics.",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-lucknow-presents-devfest-lucknow-2023/",
+    "CommunityPage": "https://gdg.community.dev/gdg-lucknow/",
+    "Visible": true,
+    "State": "Uttar Pradesh",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://sessionize.com/devfest-lucknow-2023/",
+      "LastDate": "2023-11-12"
+}
+    },{
     "City": "Salem",
     "CommunityName": "GDG Salem",
     "DevFestName": "DevFest 2023 Salem",
@@ -206,6 +225,7 @@
       "Status": "0",
       "Link": "https://forms.gle/QbZmZXE6TL4XXpSW8",
       "LastDate": "2023-12-09"
+
     }
   }
 ]
