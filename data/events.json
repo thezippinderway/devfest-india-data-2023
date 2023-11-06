@@ -169,5 +169,24 @@
       "Link": "https://forms.gle/XctaTnmtwcSbi8KN9",
       "LastDate": "2023-11-20"
     }
+  },
+  {
+    "City": "Chennai",
+    "CommunityName": "GDG Chennai",
+    "DevFestName": "DevFest Chennai",
+    "Days": "1",
+    "StartingDate": "2023-12-01",
+    "EndingDate": "2023-12-02",
+    "Venue": "IIT-M Research Park, Chennai",
+    "Description": "Chennai’s most awaited tech conference. Come learn, network, and celebrate with the Google Developer Ecosystem while also learning to hack on Android, Chrome, and the Web.",
+    "EventLink": "https://devfest.gdgchennai.in//",
+    "CommunityPage": "https://gdg.community.dev/gdg-chennai/",
+    "Visible": true,
+    "State": "Tamilnadu",
+    "CFP": {
+      "Status": "0",
+      "Link": "https://forms.gle/8H7MVjMVqJaC6koE7",
+      "LastDate": "2023-11-30"
+    }
   }
 ]
