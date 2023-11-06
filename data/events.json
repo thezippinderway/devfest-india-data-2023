@@ -188,5 +188,24 @@
       "Link": "https://forms.gle/8H7MVjMVqJaC6koE7",
       "LastDate": "2023-11-30"
     }
+  },
+  {
+    "City": "Salem",
+    "CommunityName": "GDG Salem",
+    "DevFestName": "DevFest 2023 Salem",
+    "Days": "1",
+    "StartingDate": "2023-12-23",
+    "EndingDate": "2023-12-23",
+    "Venue": "Sona College of Technology, Junction Main Rd, Salem, 636005",
+    "Description": "Welcome to DevFest 2023 Salem, where technology meets community in an unforgettable union. DevFest is more than just an event; it's a celebration of innovation, knowledge sharing, and the vibrant GDG Salem community.At DevFest 2023 Salem, we're bringing together local developers, tech enthusiasts, and learners for a day filled with exploration and interaction. This local chapter of the global DevFest initiative is designed to cater to your curiosity and thirst for tech excellence.",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-salem-presents-devfest-2023-salem/",
+    "CommunityPage": "https://gdg.community.dev/gdg-salem/",
+    "Visible": true,
+    "State": "Tamilnadu",
+    "CFP": {
+      "Status": "0",
+      "Link": "https://forms.gle/QbZmZXE6TL4XXpSW8",
+      "LastDate": "2023-12-09"
+    }
   }
 ]
