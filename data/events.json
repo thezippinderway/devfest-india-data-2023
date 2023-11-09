@@ -128,7 +128,7 @@
     "State": "Andhra Pradesh",
     "CFP": {
       "Status": "1",
-      "Link": "https://sessionize.com/devfest-vizag-2023",
+      "Link": "https://sessionize.com/devfest-vizag-2023"
     }
   },
   {
@@ -168,6 +168,64 @@
       "Status": "1",
       "Link": "https://forms.gle/XctaTnmtwcSbi8KN9",
       "LastDate": "2023-11-20"
+    }
+  },
+  {
+    "City": "Chennai",
+    "CommunityName": "GDG Chennai",
+    "DevFestName": "DevFest Chennai",
+    "Days": "1",
+    "StartingDate": "2023-12-01",
+    "EndingDate": "2023-12-02",
+    "Venue": "IIT-M Research Park, Chennai",
+    "Description": "Chennai’s most awaited tech conference. Come learn, network, and celebrate with the Google Developer Ecosystem while also learning to hack on Android, Chrome, and the Web.",
+    "EventLink": "https://devfest.gdgchennai.in//",
+    "CommunityPage": "https://gdg.community.dev/gdg-chennai/",
+    "Visible": true,
+    "State": "Tamilnadu",
+    "CFP": {
+      "Status": "0",
+      "Link": "https://forms.gle/8H7MVjMVqJaC6koE7",
+      "LastDate": "2023-11-30"
+    }
+  },
+  {
+
+    "City": "Lucknow",
+    "CommunityName": "GDG Lucknow",
+    "DevFestName": "Devfest Lucknow 2023",
+    "Days": "1",
+    "StartingDate": "2023-11-19",
+    "EndingDate": "2023-11-19",
+    "Venue": "BBD Auditorium, Lucknow, Uttar Pradesh",
+    "Description": "The much-anticipated tech conference in Lucknow has arrived! Come join us to learn, connect, and celebrate with the Google Developer Community. Get set to explore Android, Web, Machine Learning, Cloud, and a lot more of exciting topics.",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-lucknow-presents-devfest-lucknow-2023/",
+    "CommunityPage": "https://gdg.community.dev/gdg-lucknow/",
+    "Visible": true,
+    "State": "Uttar Pradesh",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://sessionize.com/devfest-lucknow-2023/",
+      "LastDate": "2023-11-12"
+}
+    },{
+    "City": "Salem",
+    "CommunityName": "GDG Salem",
+    "DevFestName": "DevFest 2023 Salem",
+    "Days": "1",
+    "StartingDate": "2023-12-23",
+    "EndingDate": "2023-12-23",
+    "Venue": "Sona College of Technology, Junction Main Rd, Salem, 636005",
+    "Description": "Welcome to DevFest 2023 Salem, where technology meets community in an unforgettable union. DevFest is more than just an event; it's a celebration of innovation, knowledge sharing, and the vibrant GDG Salem community.At DevFest 2023 Salem, we're bringing together local developers, tech enthusiasts, and learners for a day filled with exploration and interaction. This local chapter of the global DevFest initiative is designed to cater to your curiosity and thirst for tech excellence.",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-salem-presents-devfest-2023-salem/",
+    "CommunityPage": "https://gdg.community.dev/gdg-salem/",
+    "Visible": true,
+    "State": "Tamilnadu",
+    "CFP": {
+      "Status": "0",
+      "Link": "https://forms.gle/QbZmZXE6TL4XXpSW8",
+      "LastDate": "2023-12-09"
+
     }
   }
 ]
