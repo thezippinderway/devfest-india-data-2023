@@ -208,7 +208,8 @@
       "Link": "https://sessionize.com/devfest-lucknow-2023/",
       "LastDate": "2023-11-12"
 }
-    },{
+},
+{
     "City": "Salem",
     "CommunityName": "GDG Salem",
     "DevFestName": "DevFest 2023 Salem",
@@ -226,6 +227,25 @@
       "Link": "https://forms.gle/QbZmZXE6TL4XXpSW8",
       "LastDate": "2023-12-09"
 
+    }
+  },
+  {
+    "City": "Chandigarh",
+    "CommunityName": "GDG Chandigarh",
+    "DevFestName": "DevFest 2023 Chandigarh",
+    "Days": "1",
+    "StartingDate": "2023-12-09",
+    "EndingDate": "2023-12-09",
+    "Venue": "Amity University, Mohali, IT City Road, Sahibzada Ajit Singh Nagar, 140306 ",
+    "Description": "GDG Chandigarh invites you to join us as we bring together top-tier experts in  Android, Web, and Cloud technologies for an exhilarating day of sessions, workshops, and showcases. This one-day festival promises multiple tracks of tech sessions, vibrant communities, and innovative projects, complemented by delightful food and engaging activities. Whether you're a seasoned professional or just embarking on your tech journey, DevFest has something special for everyone. Save the date, don your brightest smile, and we look forward to welcoming you there!",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-chandigarh-presents-devfest-chandigarh-2023/",
+    "CommunityPage": "https://gdg.community.dev/gdg-chandigarh/",
+    "Visible": true,
+    "State": "Punjab",
+    "CFP": {
+      "Status": "0",
+      "Link": "https://sessionize.com/devfest-chandigarh-2023/",
+      "LastDate": "2023-11-15"
     }
   }
 ]
