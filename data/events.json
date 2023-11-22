@@ -267,5 +267,24 @@
       "Link": "https://sessionize.com/devfest-indore-2023/",
       "LastDate": "2023-11-20"
     }
+  },
+ {
+    "City": "Pune",
+    "CommunityName": "GDG Pune",
+    "DevFestName": "DevFest Pune 2023",
+    "Days": "1",
+    "StartingDate": "2023-12-23",
+    "EndingDate": "2023-12-23",
+    "Venue": "JW Marriott Hotel, Pune ",
+    "Description": "We’re excited to announce the Devfest Pune 2023 conference! This is a community-run, in-person conference aimed to bring technologists, developers, startup founders, entrepreneurs, tech enthusiasts, students, tech companies and speakers together in one location to learn, discuss and experiment with technology. This one-day event promises three multiple tracks of tech sessions, lightning talks at the community lounge and panel discussions complemented by delightful food and engaging activities. Whether you're a seasoned professional or just embarking on your tech journey, DevFest Pune 2023 has something special for everyone. Save the date, don your brightest smile, and we look forward to welcoming you there!",
+    "EventLink": "https://devfest.gdgpune.in/",
+    "CommunityPage": "https://gdg.community.dev/gdg-pune/",
+    "Visible": true,
+    "State": "Maharashtra",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://sessionize.com/devfest-pune-2023",
+      "LastDate": "2023-11-30"
+    }
   }
 ]
