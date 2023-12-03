@@ -286,5 +286,24 @@
       "Link": "https://sessionize.com/devfest-pune-2023",
       "LastDate": "2023-11-30"
     }
-  }
+  },
+  {
+    "City":"Jammu",
+    "CommunityName":"GDG Jammu",
+    "DevFestName":"DevFest Jammu",
+    "Days":"1",
+    "StartingDate":"2023-12-21",
+    "EndingDate":"2023-12-21",
+    "Venue":"Model Institute of Engineering and Technology (MIET), Jammu",
+    "Description":"Jammu’s most awaited tech conference. Come learn, network and celebrate with the Google Developer Ecosystem while also learning to hack on Android, Chrome, and Web.",
+    "EventLink":"https://devfest.gdgjammu.com",
+    "CommunityPage":"https://gdg.community.dev/gdg-Jammu",
+    "Visible":"true",
+    "State":"Jammu",
+    "CFP":{
+        "Status":"1",
+        "Link":"https://forms.gle/iJ4gdagjMVBmDPAT9",
+        "LastDate":"2023-12-08"
+    }
+}  
 ]
