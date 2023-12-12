@@ -1,4 +1,21 @@
-[
+[ {
+    "City": "Prayagraj",
+    "CommunityName": "GDG Prayagraj",
+    "DevFestName": "DevFest Prayagraj",
+    "Days": "1",
+    "StartingDate": "2023-12-30",
+    "EndingDate": "2023-12-30",
+    "Venue": "Prayagraj",
+    "Description": "DevFest Prayagraj stands as a beacon of technological innovation, uniting the finest minds in the field to foster a collaborative spirit of learning and growth. This unparalleled event, hosted by the Google Developer Groups (GDG), embodies the essence of knowledge sharing, networking, and exploring the latest trends in technology. With an array of insightful talks, immersive workshops, and engaging sessions, DevFest Prayagraj promises an enriching experience for both seasoned professionals and aspiring developers. Join us at this groundbreaking event to unlock new possibilities, forge valuable connections, and immerse yourself in the dynamic world of technology.!",
+    "EventLink": "https://konfhub.com/devfestprayagraj23",
+    "CommunityPage": "https://gdg.community.dev/gdg-prayagraj/",
+    "Visible": "true",
+    "State": "Uttar Pradesh",
+    "CFP": {
+      "Status": "1",
+      "Link": "https://gdg.community.dev/gdg-prayagraj/",
+      "LastDate": "2023-12-30"
+    },
   {
     "City": "New Delhi",
     "CommunityName": "GDG New Delhi",
