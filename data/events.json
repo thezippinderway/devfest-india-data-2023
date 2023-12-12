@@ -321,6 +321,24 @@
         "Status":"1",
         "Link":"https://forms.gle/iJ4gdagjMVBmDPAT9",
         "LastDate":"2023-12-08"
-    }
+    },
+    {
+    "City":"Ludhiana",
+    "CommunityName":"GDG Ludhiana",
+    "DevFestName":"DevFest Ludhiana",
+    "Days":"1",
+    "StartingDate":"2023-12-23",
+    "EndingDate":"2023-12-23",
+    "Venue":"Guru Nanak Dev Engineering College (GNE), Ludhiana",
+    "Description":"Ludhiana’s most awaited tech conference. Come learn, network and celebrate with the Google Developer Ecosystem while also learning to hack on Android, Chrome, and Web.",
+    "EventLink":"https://gdg.community.dev/events/details/google-gdg-ludhiana-presents-devfest-ludhiana-2023/",
+    "CommunityPage":"https://gdg.community.dev/gdg-ludhiana/",
+    "Visible":"true",
+    "State":"Jammu",
+    "CFP":{
+        "Status":"1",
+        "Link":"https://sessionize.com/devfest-ludhiana-2023-offline/",
+        "LastDate":"2023-12-10"
+    }  
 }  
 ]
